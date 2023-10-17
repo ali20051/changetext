@@ -1,5 +1,5 @@
 //Get the place that you want to change Frome the HTMLDoc
-const chengingText = document.querySelector(//put The element here);
+const chengingText = document.querySelector(/*put The element here*/);
 //Arry of words
 const arrOfWords = ["Enjoy","And Discover Anthor World","and live Happy"];
 //index number for the arry of words
